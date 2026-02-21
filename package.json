@@ -1,0 +1,12 @@
+{
+  "name": "avito-webhook-server",
+  "version": "1.0.0",
+  "description": "Avito messenger webhook receiver + chat cache for PC LOGISTICS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
